@@ -15,8 +15,3 @@ and understand how courtship behavior has been shaped by ecological and evolutio
 - **Location**: Trinidad & Tobago  
 - **Techniques**: Automated image detection
 
-![Guppy Figure](assets/guppy_fig1.jpg)
-
-### 📊 Interactive Plot
-
-<iframe src="assets/interactive_plot.html" width="100%" height="500px" frameborder="0"></iframe>
